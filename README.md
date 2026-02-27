@@ -1,16 +1,13 @@
-# Project Name
+# Carlos: Kpop Loving Vibecoder
 
-Welcome to our project!
+Welcome to my space! I'm Carlos, a Kpop loving vibecoder who loves to blend creativity with technology.
 
-## Description
-This project is built with **vibecoder**.
+## AI Tools I Love:
+- **Codex**: Great for code generation and assistance.
+- **GitHub Copilot**: Your AI pair programmer that enhances productivity.
 
-## Tech Stack
-- Codex
-- GitHub Copilot
+### Colors Inspired by My Vibe:
+- **Royal Blue**: #4169E1
+- **Purple**: #9370DB
 
-## Custom Colors
-- royal blue
-- purple  
-  
-Feel free to contribute and reach out if you have any questions!
+Stay vibin'!
