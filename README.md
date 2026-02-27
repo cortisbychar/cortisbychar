@@ -1,22 +1,16 @@
-# Welcome to My Repository
+# Project Name
 
-## About Me
+Welcome to our project!
 
-I am a **Kpop loving vibecoder**. I enjoy creating and experimenting with technology.
+## Description
+This project is built with **vibecoder**.
 
 ## Tech Stack
+- Codex
+- GitHub Copilot
 
-- AI Tools: Codex
-- AI Tools: GitHub Copilot
-
-## My Projects
-
-### Capsule Render
-
-```css
-# capsule-render {
-  background: linear-gradient(to right, royalblue, purple);
-}
-```
-
-Feel free to explore my projects and contribute!
+## Custom Colors
+- royal blue
+- purple  
+  
+Feel free to contribute and reach out if you have any questions!
