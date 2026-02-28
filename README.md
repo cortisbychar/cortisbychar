@@ -1,25 +1,16 @@
-# ✨ K-Pop Loving Vibecoder 👋
+# Kamillyvm Style Inspired Design
 
-<div style="position: relative;">
-    <h1 style="color: white; background: linear-gradient(90deg, royalblue, purple); text-align: center; padding: 10px;">
-        Waving Header 🌊
-    </h1>
-    <svg width="100%" height="50px">
-        <text x="50%" y="50%" alignment-baseline="middle" text-anchor="middle" fill="white" font-size="30">kpop loving vibecoder</text>
-    </svg>
-</div>
+![Kamillyvm Style](https://example.com/image_link)  
+* Carlos, a K-pop loving vibecoder, creatively inspires all!  
 
-## 🎶 Favorite K-Pop Groups
-[![NewJeans](https://img.shields.io/badge/NewJeans-FF6B6B?style=flat&logo=spotify&logoColor=white)](https://example.com)
-[![CORTIS](https://img.shields.io/badge/CORTIS-4D79FF?style=flat&logo=spotify&logoColor=white)](https://example.com)
-[![LNGSHOT](https://img.shields.io/badge/LNGSHOT-8A2BE2?style=flat&logo=spotify&logoColor=white)](https://example.com)
+## Favorite K-pop Groups
+- NewJeans  
+- CORTIS  
+- LNGSHOT  
 
-## 🤖 AI Tools
-[![Codex](https://img.shields.io/badge/Codex-764ABC?style=flat&logo=github&logoColor=white)](https://example.com)
-[![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-5E5D59?style=flat&logo=github&logoColor=white)](https://example.com)
+## Favorite AI Tools
+- Codex  
+- GitHub Copilot  
 
----
-
-Created on 2026-02-28.
-
-This is a placeholder footer text. Replace it with actual footer information if needed.
+## Design Aesthetic
+The design features a stunning royal blue and purple gradient that embodies a sense of creativity and modernity. Embracing the K-pop culture, this aesthetic invites everyone to explore their coding journey through vibrant designs and inspiring music.
