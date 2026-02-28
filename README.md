@@ -1,13 +1,25 @@
-# Carlos: Kpop Loving Vibecoder
+# ✨ K-Pop Loving Vibecoder 👋
 
-Welcome to my space! I'm Carlos, a Kpop loving vibecoder who loves to blend creativity with technology.
+<div style="position: relative;">
+    <h1 style="color: white; background: linear-gradient(90deg, royalblue, purple); text-align: center; padding: 10px;">
+        Waving Header 🌊
+    </h1>
+    <svg width="100%" height="50px">
+        <text x="50%" y="50%" alignment-baseline="middle" text-anchor="middle" fill="white" font-size="30">kpop loving vibecoder</text>
+    </svg>
+</div>
 
-## AI Tools I Love:
-- **Codex**: Great for code generation and assistance.
-- **GitHub Copilot**: Your AI pair programmer that enhances productivity.
+## 🎶 Favorite K-Pop Groups
+[![NewJeans](https://img.shields.io/badge/NewJeans-FF6B6B?style=flat&logo=spotify&logoColor=white)](https://example.com)
+[![CORTIS](https://img.shields.io/badge/CORTIS-4D79FF?style=flat&logo=spotify&logoColor=white)](https://example.com)
+[![LNGSHOT](https://img.shields.io/badge/LNGSHOT-8A2BE2?style=flat&logo=spotify&logoColor=white)](https://example.com)
 
-### Colors Inspired by My Vibe:
-- **Royal Blue**: #4169E1
-- **Purple**: #9370DB
+## 🤖 AI Tools
+[![Codex](https://img.shields.io/badge/Codex-764ABC?style=flat&logo=github&logoColor=white)](https://example.com)
+[![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-5E5D59?style=flat&logo=github&logoColor=white)](https://example.com)
 
-Stay vibin'!
+---
+
+Created on 2026-02-28.
+
+This is a placeholder footer text. Replace it with actual footer information if needed.
